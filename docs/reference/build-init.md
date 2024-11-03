@@ -40,3 +40,4 @@ This init sample asks no questions and generates a project using Java like [grad
 `gradle init -Dorg.gradle.buildinit.specs=org.gradle.experimental.kmp-ecosystem-init:0.1.23`
 
 This init sample asks no questions and generates a project using Kotlin like [gradle/declarative-samples-kotlin-app](https://github.com/gradle/declarative-samples-kotlin-app).
+
